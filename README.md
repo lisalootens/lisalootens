@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Lisa Lootens
+- 🌱 I’m currently learning Java, Spring Boot and React
+- 💞️ I'd love to collaborate
+- 📫 Reach me per email: lisa_lootens@live.nl
